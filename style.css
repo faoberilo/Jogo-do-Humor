@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    background-color: orange;
+    font-size: 50px;
+    color: blue;
+    border-radius: 15rem;
+    border-style:solid;
+    border-color: black;     
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color: orange;
+    border-style:groove;
+    border-width: 5px;
+    border-color: orange;
+}
+img{
+    img
+    border-style:inset;
+    cursor:pointer;
+    transition: 1s ease-in-out;
+}
+figcaption{
+    color:rgb(255, 255, 255);
+    cursor:crosshair;
+}
+   
+footer {
+    text-align: center;
+    font-style: italic;
+    margin-top: 3rem;
+  }
